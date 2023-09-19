@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brayan</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 <p align="center">
-  <img alt="Coding" width="200" src="https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif">
+  <img alt="Coding" width="300" src="https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif">
 </p>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayan17king&label=Profile%20views&color=0e75b6&style=flat" alt="brayan17king" /> </p>
