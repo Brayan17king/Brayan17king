@@ -1,11 +1,10 @@
-![MasterHead](https://i.pinimg.com/originals/a5/f1/b1/a5f1b14e6821d2ebce7c41589111aa25.jpg)
 <h1 align="center">Hi 👋, I'm Brayan</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 <p align="center">
   <img alt="Coding" width="250" src="https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif">
 </p>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brayan17king&label=Profile%20views&color=0e75b6&style=flat" alt="brayan17king" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brayan17king&label=Profile%20views&color=0e75b6&style=flat" alt="brayan17king" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brayan17king" alt="brayan17king" /></a> </p>
 
