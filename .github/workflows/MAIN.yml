@@ -25,3 +25,7 @@ jobs:
         with:
           target_branch: output
           build_dir: ./output
+
+      - name: Debug
+        run: echo "GITHUB_USER_NAME=${{ env.GITHUB_USER_NAME }}"
+        run: echo "output/snake.gif=$(cat output/snake.gif)"
