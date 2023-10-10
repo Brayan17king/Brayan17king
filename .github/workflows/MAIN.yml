@@ -1,11 +1,11 @@
-name: Generate snake
+name: Generate Snake
 
 on:
   schedule:
     - cron: "0 */6 * * *"
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -15,6 +15,7 @@ jobs:
         run: echo "GITHUB_USER_NAME=$(git config user.name)" >> $GITHUB_ENV
 
       - uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: ${{ env.GITHUB_USER_NAME }}
           gif_out_path: ./output/snake.gif
@@ -25,7 +26,6 @@ jobs:
         with:
           target_branch: output
           build_dir: ./output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Debug
-        run: echo "GITHUB_USER_NAME=${{ env.GITHUB_USER_NAME }}"
-        run: echo "output/snake.gif=$(cat output/snake.gif)"
