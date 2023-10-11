@@ -30,7 +30,7 @@
 <div align="center">
 <h2>🐍 My Contributions 🐍</h2>
 <br>
-<img alt= "snake eating my contributions" src"https://raw.githubusercontent.com/Brayan17king/Brayan17king/output/github-contributions-grid-snake.svg"/>
-<br>
+<img alt= "snake eating my contributions" src"https://raw.githubusercontent.com/Brayan17king/Brayan17king/output/github-contribution-grid-snake.svg"/>
 </div>
+<br>
 
