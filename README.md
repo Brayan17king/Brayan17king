@@ -26,11 +26,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayan17king&show_icons=true&locale=en" alt="brayan17king" /></p>
 
-<br>
 <div align="center">
 <h2>🐍 My Contributions 🐍</h2>
 <br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Brayan17king/Brayan17king/output/github-contribution-grid-snake.svg" />
 </div>
-<br>
 
