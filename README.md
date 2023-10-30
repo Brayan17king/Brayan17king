@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brayan</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h3 align="center">A passionate BackEnd developer from Colombia</h3>
 <p align="center">
   <img alt="Coding" width="250" src="https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif">
 </p>  
